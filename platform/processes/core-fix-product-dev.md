@@ -30,6 +30,7 @@ No card que originou a correção:
 - **Tamanho:** preencher quando aplicável
 - **Descrição:** explicar a correção feita no core e o que Produto precisa levar para a build master
 - **Data de início / Data de fim:** preencher conforme o planejamento
+- **Essa tarefa veio de um chamado do suporte?:** marcar a flag
 - **P&D:** selecionar quando aplicável
 - **Card com impedimento:** marcar quando aplicável
 - **Análise conclusiva:** preencher quando aplicável
